@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ListviewApp</string>
+    <string name="Values"></string>
+    <string-array name='Name'>
+        <item> James</item>
+        <item> Radamel</item>
+        <item> Teofilo </item>
+        <item> David</item>
+        <item> James</item>
+        <item> Radamel</item>
+        <item> Teofilo </item>
+        <item> David</item>
+        <item> James</item>
+        <item> Radamel</item>
+        <item> Teofilo </item>
+        <item> David</item>
+        <item> James</item>
+        <item> Radamel</item>
+        <item> Teofilo </item>
+        <item> David</item>
+    </string-array>
+    <string-array name='LastName'>
+        <item> Rodriguez</item>
+        <item> Flacao</item>
+        <item> Gutierrez </item>
+        <item> Ospina</item>
+        <item> Rodriguez</item>
+        <item> Flacao</item>
+        <item> Gutierrez </item>
+        <item> Ospina</item>
+        <item> Rodriguez</item>
+        <item> Flacao</item>
+        <item> Gutierrez </item>
+        <item> Ospina</item>
+        <item> Rodriguez</item>
+        <item> Flacao</item>
+        <item> Gutierrez </item>
+        <item> Ospina</item>
+    </string-array>
+    <string-array name='Posicion'>
+        <item> Enganche</item>
+        <item> Delantero</item>
+        <item> Delantero </item>
+        <item> Arquero</item>
+        <item> Enganche</item>
+        <item> Delantero</item>
+        <item> Delantero </item>
+        <item> Arquero</item>
+        <item> Enganche</item>
+        <item> Delantero</item>
+        <item> Delantero </item>
+        <item> Arquero</item>
+        <item> Enganche</item>
+        <item> Delantero</item>
+        <item> Delantero </item>
+        <item> Arquero</item>
+    </string-array>
+
+    <string-array name='ONOFF'>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON </item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON </item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON </item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON</item>
+        <item> ON </item>
+        <item> ON</item>
+    </string-array>
+
+</resources>
